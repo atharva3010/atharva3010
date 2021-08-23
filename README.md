@@ -1,6 +1,6 @@
 # Hey, it's Atharva!
 
-**Frontend Engineer** during day, **keyboard maker** at night.  
+**Frontend Engineer** during the day, **keyboard maker** at night.  
 _A few years ago I fell in love with Vue and remote work, haven't looked back since._
 
 ## Want to talk?  
