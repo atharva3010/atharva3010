@@ -1,6 +1,6 @@
 # Hey, I am Atharva!
 
-I love building stuff for the web _(nowadays using Vue.js)_.  
+I love building stuff for the web _(currently using Vue.js)_.  
 I also like to build keyboards and collect watches in my spare time.
 
 ## Want to talk?   
